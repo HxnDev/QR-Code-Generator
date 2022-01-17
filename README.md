@@ -1,4 +1,4 @@
-# QR-Code-Generator
+# QR Code Generator
 
 ## Project Description:
 In this project, we'll be using some libraries to instantly generate authentic QR Codes and export them in various formats
